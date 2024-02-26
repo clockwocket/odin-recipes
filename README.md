@@ -1,3 +1,2 @@
-To Do: 
-    -Brief introduction of project
-    -Brief description of what skills I have learned
+A homepage with links to several recipes. The recipes have images.
+In this project, I used images, links, ordered lists, and unordered lists.
