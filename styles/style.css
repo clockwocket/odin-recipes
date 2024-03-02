@@ -1,0 +1,31 @@
+body {
+    background-color: honeydew;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1 {
+    border: 3px solid forestgreen;
+    border-radius: 10px;
+    font-size: 80px;
+    padding: 40px;
+    margin: 50px 150px;
+    background-color: aquamarine;
+    color:darkblue;
+}
+
+ul {
+    list-style-position: inside;
+    list-style-image: url(../imgs/pan.png);
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    margin: 20px 150px;
+    font-size: 40px;
+    padding: 20px;
+    background-color: lightseagreen;
+    color: forestgreen;
+    border-radius: 10px;
+}
